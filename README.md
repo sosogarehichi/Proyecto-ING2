@@ -48,7 +48,7 @@ El sistema implementa autenticación de usuarios, control de roles y funcionalid
 - Manejo de estados de reserva
 
 
-## ⚙️ Instalación
+## Instalación
 
 ### Clonar el repositorio
 
@@ -93,12 +93,28 @@ baseDatos.sql
 ## Autores
 
 Proyecto grupal desarrollado por estudiantes de la UNLP.
+Martina García, Emanuel Alvarez Landolfi, Anita Ormello Barral, Sofia Garehichi.
 
-#### Contribución personal
+### Contribución personal
 
-- Desarrollo de interfaz de Home
-- Implementación de recuperación de contraseña
-- Colaboración en flujos de autenticación
+Tuve un rol activo en el desarrollo del frontend y en el diseño de la experiencia de usuario (UI/UX), participando en la implementación de múltiples funcionalidades clave orientadas al usuario final.
+
+#### Funcionalidades desarrolladas
+
+- Visualización y edición de perfil de usuario.
+- Recuperación de contraseña.
+- Visualización de política de reservas.
+- Notificación de pago satisfactorio.
+- Página de inicio (Home).
+- Sección de contacto.
+- Preguntas frecuentes (FAQ).
+- Búsqueda de sucursales.
+
+#### Diseño e interfaz
+- Diseño de la mayor parte de la interfaz web.
+- Definición de la experiencia de usuario (UX).
+- Implementación de componentes visuales en el frontend.
+
 
 ## Estado del proyecto
 
