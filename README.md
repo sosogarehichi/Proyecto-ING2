@@ -9,6 +9,18 @@ Alquilapp permite administrar un sistema de alquiler de autos con distintos tipo
 El sistema implementa autenticación de usuarios, control de roles y funcionalidades de recuperación de cuenta, con una arquitectura separada entre frontend y backend.
 
 
+## Vista Previa
+
+### Inicio
+![Inicio](assets/carrusel.gif)
+
+### Selección de sucursales
+![Selección](assets/sucursal.gif)
+
+### Filtro de autos disponibles por sucursal
+![Autos](assest/auto-suc.gif)
+
+
 ## Tecnologías utilizadas
 
 **Backend**
