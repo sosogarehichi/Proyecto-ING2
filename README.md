@@ -12,13 +12,26 @@ El sistema implementa autenticación de usuarios, control de roles y funcionalid
 ## Vista Previa
 
 ### Inicio
-![Inicio](assets/carrusel.gif)
+
+<p align="center">
+  <img src="assets/carrusel.gif" width="900"/>
+</p>
+
 ---
+
 ### Selección de sucursales
-![Selección](assets/sucursal.gif)
+
+<p align="center">
+  <img src="assets/sucursal.gif" width="900"/>
+</p>
+
 ---
+
 ### Filtro de autos disponibles por sucursal
-![Autos](assets/auto-suc.gif)
+
+<p align="center">
+  <img src="assets/auto-suc.gif" width="900"/>
+</p>
 
 
 ## Tecnologías utilizadas
