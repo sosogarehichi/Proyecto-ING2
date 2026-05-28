@@ -45,7 +45,7 @@ El sistema implementa autenticación de usuarios, control de roles y funcionalid
 - MySQL
 
 **Frontend**
-- JavaScript
+- TypeScript
 - Vite / React
 
 
